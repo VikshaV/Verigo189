@@ -1,0 +1,88 @@
+body{
+    margin:0px;}
+#main{
+ width:100%;
+}
+#head{
+ width:1366px;
+ height:25px;
+    text-align:left;
+    font-size:18px;
+   color: #BC8F8F;
+ background-image: url(rt.jpg);
+    background-repeat:no-repeat;}
+#header{
+ width:1366px;
+ height:200px;
+    padding-top:50px;
+    text-align:center;
+    font-size:24px;
+   color: #FFFFE0;
+ background-image: url(ki.jpg);
+    background-repeat:no-repeat;}
+#drugoi{
+ width:1366px;
+    height:70px;
+    background:#000000;
+}
+#korob{
+   width:144px;
+ height:350px; 
+ background: #000000;
+   float: left;
+}
+#put{
+   width:600px;
+ height:350px; 
+ background: #000000;
+   float: left;
+}
+#pit{
+   width:605px;
+ 
+ height:350px; 
+ background: #000000;
+   float: left;
+    font-size:18px;
+   color: #F4A460;
+}
+#puto {width:600px;
+ height:350px; 
+ background: #000000;
+   float: left;
+}
+#pito{
+   width:605px;
+ 
+ height:350px; 
+ background: #000000;
+   float: left;
+    font-size:18px;
+   color: #F4A460;
+}
+
+#p{ width:600px;
+ height:350px; 
+ background: #000000;
+   float: left;
+}
+#ph{
+   width:605px;
+ 
+ height:350px; 
+ background: #000000;
+   float: left;
+    font-size:18px;
+   color: #F4A460;
+}
+
+#footer{
+ width:100%;
+ height:28px;
+ background: darkred;
+text-align:left;
+font-size:15px;
+ font-family:Arial;
+color: #FFFFE0;
+
+}
